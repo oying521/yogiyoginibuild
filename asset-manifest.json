@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ohyogabuild/static/css/main.d387b320.css",
-    "main.js": "/ohyogabuild/static/js/main.71097dc3.js",
-    "static/js/787.cda612ba.chunk.js": "/ohyogabuild/static/js/787.cda612ba.chunk.js",
-    "service-worker.js": "/ohyogabuild/service-worker.js",
-    "index.html": "/ohyogabuild/index.html",
-    "main.d387b320.css.map": "/ohyogabuild/static/css/main.d387b320.css.map",
-    "main.71097dc3.js.map": "/ohyogabuild/static/js/main.71097dc3.js.map",
-    "787.cda612ba.chunk.js.map": "/ohyogabuild/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/yogiyoginibuild/static/css/main.d387b320.css",
+    "main.js": "/yogiyoginibuild/static/js/main.3e858a77.js",
+    "static/js/787.cda612ba.chunk.js": "/yogiyoginibuild/static/js/787.cda612ba.chunk.js",
+    "service-worker.js": "/yogiyoginibuild/service-worker.js",
+    "index.html": "/yogiyoginibuild/index.html",
+    "main.d387b320.css.map": "/yogiyoginibuild/static/css/main.d387b320.css.map",
+    "main.3e858a77.js.map": "/yogiyoginibuild/static/js/main.3e858a77.js.map",
+    "787.cda612ba.chunk.js.map": "/yogiyoginibuild/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d387b320.css",
-    "static/js/main.71097dc3.js"
+    "static/js/main.3e858a77.js"
   ]
 }
