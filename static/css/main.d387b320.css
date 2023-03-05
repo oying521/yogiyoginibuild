@@ -817,6 +817,17 @@ li {
     border-radius: 100px !important
 }
 
+.maintab .css-g10yfj.Mui-selected {
+    background-color: #f1542f !important;
+    border-radius: 100px !important;
+    color: #fff !important
+}
+
+.maintab .css-1gsv261 {
+    background-color: #eadec5 !important;
+    border-radius: 100px !important
+}
+
 .maintab .css-96u19g-MuiButtonBase-root-MuiTab-root.Mui-selected {
     background-color: #f1542f !important;
     border-radius: 100px !important;
