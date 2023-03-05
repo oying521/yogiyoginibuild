@@ -823,6 +823,13 @@ li {
     color: #fff !important
 }
 
+
+.maintab .css-96u19g-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    background-color: #f1542f;
+    border-radius: 100px;
+    color: #fff;
+}
+
 .poselists img {
     max-width: 100%
 }
