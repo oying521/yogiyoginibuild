@@ -628,7 +628,7 @@ tr {
 }
 
 .css-mxpiy6 {
-    background-color: #02020200 !important
+    background-color: #02020200 !important;
 }
 
 .user-name {
@@ -832,6 +832,10 @@ li {
     margin-top: 200px;
     text-align: center;
     width: 100%
+}
+
+.css-mxpiy6 {
+    background-color: #02020200 !important;
 }
 
 /*# sourceMappingURL=main.d387b320.css.map*/
