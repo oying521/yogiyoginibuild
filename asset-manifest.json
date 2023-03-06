@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/yogiyoginibuild/static/css/main.1796f77d.css",
-    "main.js": "/yogiyoginibuild/static/js/main.d28f030f.js",
+    "main.js": "/yogiyoginibuild/static/js/main.c97b737a.js",
     "static/js/787.cda612ba.chunk.js": "/yogiyoginibuild/static/js/787.cda612ba.chunk.js",
     "service-worker.js": "/yogiyoginibuild/service-worker.js",
     "index.html": "/yogiyoginibuild/index.html",
     "main.1796f77d.css.map": "/yogiyoginibuild/static/css/main.1796f77d.css.map",
-    "main.d28f030f.js.map": "/yogiyoginibuild/static/js/main.d28f030f.js.map",
+    "main.c97b737a.js.map": "/yogiyoginibuild/static/js/main.c97b737a.js.map",
     "787.cda612ba.chunk.js.map": "/yogiyoginibuild/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1796f77d.css",
-    "static/js/main.d28f030f.js"
+    "static/js/main.c97b737a.js"
   ]
 }
